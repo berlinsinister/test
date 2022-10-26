@@ -1,1 +1,6 @@
 october branch
+random text just to make some updates
+to the master branch.
+
+will be used for practicing git.
+e.g. solving 'merge conflicts'.
